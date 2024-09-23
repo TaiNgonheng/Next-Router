@@ -5,9 +5,6 @@ const course_data =[
   {name: "java.js", hours: 7},
 
 ];
-
-
-
 const course = () => {
   function onSubmit(){
     console.log("Hello world")
